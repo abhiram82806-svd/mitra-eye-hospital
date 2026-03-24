@@ -18,7 +18,7 @@ export default function App() {
 
       {/* ✅ WHATSAPP BUTTON */}
      <a
-  href="https://wa.me/917947424132?text=Hello%20I%20want%20to%20book%20an%20appointment"
+  href="https://wa.me/918247533346?text=Hello%20I%20want%20to%20book%20an%20appointment"
   target="_blank"
   rel="noopener noreferrer"
   className="fixed bottom-5 right-5 bg-green-500 text-white px-4 py-3 rounded-full shadow-lg hover:bg-green-600 transition-all flex items-center gap-2 z-50"

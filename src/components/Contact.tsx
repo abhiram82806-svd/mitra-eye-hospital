@@ -54,10 +54,10 @@ export default function Contact() {
                   <h4 className="font-bold text-slate-900 mb-1">Contact Number</h4>
                   <p className="text-slate-600">
                     <a
-                      href="tel:+917947424132"
+                      href="tel:+918247533346"
                       className="hover:text-primary transition-colors"
                     >
-                      +91 7947424132
+                      +91 8247533346
                     </a>
                   </p>
                 </div>
@@ -84,7 +84,7 @@ export default function Contact() {
 
               {/* Call Button */}
               <a
-                href="tel:+917947424132"
+                href="tel:+918247533346"
                 className="bg-primary text-white px-8 py-4 rounded-xl font-medium hover:bg-primary/90 transition-all hover:scale-105 shadow-lg shadow-primary/20 flex items-center justify-center gap-2 text-lg"
               >
                 <Phone className="w-5 h-5" />

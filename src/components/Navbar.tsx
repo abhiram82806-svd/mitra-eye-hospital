@@ -65,7 +65,7 @@ export default function Navbar() {
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="tel:+918280670007"
+              href="tel:+918247533346"
               className="flex items-center gap-2 text-primary font-medium text-sm hover:text-primary/80 transition-colors"
             >
               <Phone className="w-4 h-4" />
@@ -131,7 +131,7 @@ export default function Navbar() {
             </Link>
 
             <a
-              href="tel:+918280670007"
+              href="tel:+918247533346"
               className="flex items-center justify-center gap-2 border border-primary text-primary px-4 py-3 rounded-lg font-medium"
             >
               <Phone className="w-5 h-5" />
