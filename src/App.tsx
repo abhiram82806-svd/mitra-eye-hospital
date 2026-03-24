@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Appointment from "./components/Appointment";
-import Admin from "./pages/admin.tsx";
+import Admin from "./pages/Admin.tsx";
 import { MessageCircle } from "lucide-react";
 
 export default function App() {
