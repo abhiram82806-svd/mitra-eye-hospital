@@ -105,7 +105,7 @@ export default function Hero() {
 
               {/* CALL BUTTON */}
               <a
-                href="tel:+91+918247533346"
+                href="tel:+918247533346"
                 className="bg-white text-slate-700 border border-slate-200 px-8 py-4 rounded-xl font-medium hover:bg-slate-50 hover:border-slate-300 transition-all flex items-center justify-center gap-2 text-lg"
               >
                 <Phone className="w-5 h-5" />
